@@ -1,4 +1,4 @@
-# ka1ata.github.io
+# javascript-calculator
 
 
 Why did I make this calculator?
