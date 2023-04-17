@@ -4,7 +4,7 @@
 Why did I make this calculator?
 
 
-I made this calculator to show off my programming skills. With this, I want to impress the people who will assign me their work tasks. I may not have much experience as a QA, but there is a first time for everything, right? I am a very ambitious and hardworking person and I always do my work with great pleasure.
+I made this calculator to show off my programming skills. With this I want to impress the people who will assign me their work tasks. I have been working as a QA Engineer for many years and I can make test plan and test case for your products. I am a very ambitious and hardworking person and I always do my work with great pleasure.
 
 Link for my work: https://ka1ata.github.io/
 
